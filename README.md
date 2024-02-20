@@ -10,3 +10,5 @@ This repository includes the following tasks:
 2-python_functions.ipynb:- This file contains a collection of Python function problems designed to help readers practice problem-solving 
                            skills and improve their understanding of Python functions.
                        
+3-numpy.ipynb:-This file contains a set of basic NumPy problems aimed at reinforcing your understanding of NumPy arrays, indexing, slicing, 
+                and basic array operations.
